@@ -121,7 +121,6 @@ class formClass {
             'access arguments' => array('view fedora collection')
     );
 
-	
     $items['fedora/ingestObject'] = array (
         'title' => t('Ingest Object'),
       'page callback' => 'fedora_repository_ingest_object',
